@@ -200,6 +200,22 @@ select {
 .todo.high {
   border-left: 5px solid red;
 }
+nav {
+  background-color: #2f2f2f;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 36px;
+  color: #333;
+}
+
+/* Additional styling for the todo list, input fields, etc. */
 
 /* 
 Forked of code-along project by OneCode Camp 
